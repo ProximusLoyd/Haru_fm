@@ -1,4 +1,4 @@
-# Haru_fm-Android
+# Haru_fm
 
 __OUR JOURNEY BEGINS HERE !__
 
