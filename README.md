@@ -1,4 +1,7 @@
 # Haru_fm
+A file manager that can help you edit text/code/config along with media playing and viewing capabilities
+
+It have options for syntax highlighting and file share capabilities if required 
 
 __OUR JOURNEY BEGINS HERE !__
 
@@ -17,7 +20,7 @@ INTEL / AMD/ ARM  [ ARM64-8 , ARMeabi-v7 , x64 & x32/ i686 ]
    Install windows 10/11  builds ( .exe ) aarch64(ARM) , x62 bit version or x32/i686 version accordingly
 
 ANDROID EDITIONS
-[*Soon be moved to new dedicated repo named Haru_fm-Android https://github.com/ProximusLoyd/Haru_fm-Android]
+[*Moved to new dedicated repo named Haru_fm-Android https://github.com/ProximusLoyd/Haru_fm-Android]
 
 - Android (arm64-8 and armeabi-v7 ). 
    Install the haru_fm-arm64-v8a.apk for main app 
