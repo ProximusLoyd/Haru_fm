@@ -9,7 +9,7 @@ __Haru_fm__
 
 __INSTALLATION__ 
 
-Desktop editions
+DESKTOP EDITIONS
 
 Download it from  :- https://github.com/ProximusLoyd/Haru_fm/releases
 
