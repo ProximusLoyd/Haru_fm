@@ -9,7 +9,9 @@ __Haru_fm__
 
 __INSTALLATION__ 
 
-Desktop edition
+Desktop editions
+
+Download it from  :- https://github.com/ProximusLoyd/Haru_fm/releases
 
 INTEL / AMD/ ARM  [ ARM64-8 , ARMeabi-v7 , x64 & x32/ i686 ]
 
